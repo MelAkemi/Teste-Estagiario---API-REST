@@ -6,7 +6,7 @@ Script contendo uma API REST do IBGE
 
 Conversão de arquivo CSV com a quantidade de estado por região.
 
-:point_down:Códgo do API retornando o resultado
+:point_down:Código do API retornando o resultado
 <img width="960" alt="pg png" src="https://user-images.githubusercontent.com/92556113/188041034-79ce2c5e-ca6c-42d6-98f3-86bcd74c4319.PNG">
 ![image](https://user-images.githubusercontent.com/92556113/188043523-5ce04649-bfc5-4afb-8fe5-8ea0b2d72688.png)
 
